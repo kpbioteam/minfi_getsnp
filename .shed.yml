@@ -1,0 +1,7 @@
+categories: [Epigenetics]
+description: Function To Retrieve The Chromosome And The Position Of Each SNP On A
+  Given Affymetrix SNP Array
+homepage_url: https://github.com/kpbioteam/minfi_getsnp
+name: minfi_getsnp
+owner: kpbioteam
+remote_repository_url: https://github.com/kpbioteam/minfi_getsnp
